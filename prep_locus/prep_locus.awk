@@ -1,4 +1,5 @@
 # prep_locus.awk -- program to munge Hail GWAS table to LocusZoom format
+# author: Daniel M Spagnolo (@dspagnolo09)
 # fields: locus, alleles, n, sum_x, y_transpose_x, beta, standard_error, 
 #         t_stat, p_value
 
